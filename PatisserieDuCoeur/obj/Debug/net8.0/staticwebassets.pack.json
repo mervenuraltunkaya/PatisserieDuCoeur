@@ -1,0 +1,145 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Owner\\OneDrive\\Masaüstü\\PatisserieDuCoeur - Kopya\\PatisserieDuCoeur\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\PatisserieDuCoeur.bundle.scp.css",
+      "PackagePath": "staticwebassets\\PatisserieDuCoeur.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Owner\\OneDrive\\Masaüstü\\PatisserieDuCoeur - Kopya\\PatisserieDuCoeur\\wwwroot\\background-img.jpg",
+      "PackagePath": "staticwebassets\\background-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Owner\\OneDrive\\Masaüstü\\PatisserieDuCoeur - Kopya\\PatisserieDuCoeur\\wwwroot\\css\\background-img.jpg",
+      "PackagePath": "staticwebassets\\css\\background-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Owner\\OneDrive\\Masaüstü\\PatisserieDuCoeur - Kopya\\PatisserieDuCoeur\\wwwroot\\css\\styles.css",
+      "PackagePath": "staticwebassets\\css\\styles.css"
+    },
+    {
+      "Id": "C:\\Users\\Owner\\OneDrive\\Masaüstü\\PatisserieDuCoeur - Kopya\\PatisserieDuCoeur\\wwwroot\\data.json",
+      "PackagePath": "staticwebassets\\data.json"
+    },
+    {
+      "Id": "C:\\Users\\Owner\\OneDrive\\Masaüstü\\PatisserieDuCoeur - Kopya\\PatisserieDuCoeur\\wwwroot\\favicon.svg",
+      "PackagePath": "staticwebassets\\favicon.svg"
+    },
+    {
+      "Id": "C:\\Users\\Owner\\OneDrive\\Masaüstü\\PatisserieDuCoeur - Kopya\\PatisserieDuCoeur\\wwwroot\\images\\background-img.jpg",
+      "PackagePath": "staticwebassets\\images\\background-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Owner\\OneDrive\\Masaüstü\\PatisserieDuCoeur - Kopya\\PatisserieDuCoeur\\wwwroot\\images\\cupcake.jpg",
+      "PackagePath": "staticwebassets\\images\\cupcake.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Owner\\OneDrive\\Masaüstü\\PatisserieDuCoeur - Kopya\\PatisserieDuCoeur\\wwwroot\\images\\facebook.svg",
+      "PackagePath": "staticwebassets\\images\\facebook.svg"
+    },
+    {
+      "Id": "C:\\Users\\Owner\\OneDrive\\Masaüstü\\PatisserieDuCoeur - Kopya\\PatisserieDuCoeur\\wwwroot\\images\\instagram.svg",
+      "PackagePath": "staticwebassets\\images\\instagram.svg"
+    },
+    {
+      "Id": "C:\\Users\\Owner\\OneDrive\\Masaüstü\\PatisserieDuCoeur - Kopya\\PatisserieDuCoeur\\wwwroot\\images\\kakao.jpg",
+      "PackagePath": "staticwebassets\\images\\kakao.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Owner\\OneDrive\\Masaüstü\\PatisserieDuCoeur - Kopya\\PatisserieDuCoeur\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Owner\\OneDrive\\Masaüstü\\PatisserieDuCoeur - Kopya\\PatisserieDuCoeur\\wwwroot\\images\\pasta-icon.png",
+      "PackagePath": "staticwebassets\\images\\pasta-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\Owner\\OneDrive\\Masaüstü\\PatisserieDuCoeur - Kopya\\PatisserieDuCoeur\\wwwroot\\images\\pasta-icon.svg",
+      "PackagePath": "staticwebassets\\images\\pasta-icon.svg"
+    },
+    {
+      "Id": "C:\\Users\\Owner\\OneDrive\\Masaüstü\\PatisserieDuCoeur - Kopya\\PatisserieDuCoeur\\wwwroot\\images\\pastaci.jpg",
+      "PackagePath": "staticwebassets\\images\\pastaci.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Owner\\OneDrive\\Masaüstü\\PatisserieDuCoeur - Kopya\\PatisserieDuCoeur\\wwwroot\\images\\portakal.jpg",
+      "PackagePath": "staticwebassets\\images\\portakal.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Owner\\OneDrive\\Masaüstü\\PatisserieDuCoeur - Kopya\\PatisserieDuCoeur\\wwwroot\\images\\x.png",
+      "PackagePath": "staticwebassets\\images\\x.png"
+    },
+    {
+      "Id": "C:\\Users\\Owner\\OneDrive\\Masaüstü\\PatisserieDuCoeur - Kopya\\PatisserieDuCoeur\\wwwroot\\js\\canvas.js",
+      "PackagePath": "staticwebassets\\js\\canvas.js"
+    },
+    {
+      "Id": "C:\\Users\\Owner\\OneDrive\\Masaüstü\\PatisserieDuCoeur - Kopya\\PatisserieDuCoeur\\wwwroot\\js\\productSlide.js",
+      "PackagePath": "staticwebassets\\js\\productSlide.js"
+    },
+    {
+      "Id": "C:\\Users\\Owner\\OneDrive\\Masaüstü\\PatisserieDuCoeur - Kopya\\PatisserieDuCoeur\\wwwroot\\js\\script.js",
+      "PackagePath": "staticwebassets\\js\\script.js"
+    },
+    {
+      "Id": "C:\\Users\\Owner\\OneDrive\\Masaüstü\\PatisserieDuCoeur - Kopya\\PatisserieDuCoeur\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Owner\\OneDrive\\Masaüstü\\PatisserieDuCoeur - Kopya\\PatisserieDuCoeur\\wwwroot\\js\\slider.js",
+      "PackagePath": "staticwebassets\\js\\slider.js"
+    },
+    {
+      "Id": "C:\\Users\\Owner\\OneDrive\\Masaüstü\\PatisserieDuCoeur - Kopya\\PatisserieDuCoeur\\wwwroot\\js\\theme.js",
+      "PackagePath": "staticwebassets\\js\\theme.js"
+    },
+    {
+      "Id": "C:\\Users\\Owner\\OneDrive\\Masaüstü\\PatisserieDuCoeur - Kopya\\PatisserieDuCoeur\\wwwroot\\urunler\\brownie.png",
+      "PackagePath": "staticwebassets\\urunler\\brownie.png"
+    },
+    {
+      "Id": "C:\\Users\\Owner\\OneDrive\\Masaüstü\\PatisserieDuCoeur - Kopya\\PatisserieDuCoeur\\wwwroot\\urunler\\cheseecake.jpg",
+      "PackagePath": "staticwebassets\\urunler\\cheseecake.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Owner\\OneDrive\\Masaüstü\\PatisserieDuCoeur - Kopya\\PatisserieDuCoeur\\wwwroot\\urunler\\cikolatali.jpg",
+      "PackagePath": "staticwebassets\\urunler\\cikolatali.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Owner\\OneDrive\\Masaüstü\\PatisserieDuCoeur - Kopya\\PatisserieDuCoeur\\wwwroot\\urunler\\havuclu.jpg",
+      "PackagePath": "staticwebassets\\urunler\\havuclu.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Owner\\OneDrive\\Masaüstü\\PatisserieDuCoeur - Kopya\\PatisserieDuCoeur\\wwwroot\\urunler\\kalpli_pasta.png",
+      "PackagePath": "staticwebassets\\urunler\\kalpli_pasta.png"
+    },
+    {
+      "Id": "C:\\Users\\Owner\\OneDrive\\Masaüstü\\PatisserieDuCoeur - Kopya\\PatisserieDuCoeur\\wwwroot\\urunler\\karamel.jpg",
+      "PackagePath": "staticwebassets\\urunler\\karamel.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Owner\\OneDrive\\Masaüstü\\PatisserieDuCoeur - Kopya\\PatisserieDuCoeur\\wwwroot\\urunler\\pasta.png",
+      "PackagePath": "staticwebassets\\urunler\\pasta.png"
+    },
+    {
+      "Id": "C:\\Users\\Owner\\OneDrive\\Masaüstü\\PatisserieDuCoeur - Kopya\\PatisserieDuCoeur\\wwwroot\\urunler\\tarcin.jpg",
+      "PackagePath": "staticwebassets\\urunler\\tarcin.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.PatisserieDuCoeur.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.PatisserieDuCoeur.props",
+      "PackagePath": "build\\PatisserieDuCoeur.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.PatisserieDuCoeur.props",
+      "PackagePath": "buildMultiTargeting\\PatisserieDuCoeur.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.PatisserieDuCoeur.props",
+      "PackagePath": "buildTransitive\\PatisserieDuCoeur.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

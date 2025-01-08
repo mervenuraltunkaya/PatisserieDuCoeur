@@ -1,0 +1,44 @@
+{
+  "products": [
+    {
+      "name": "Mélange de Miel ",
+      "image": "urunler/pasta.png",
+      "ingredients": "Çikolata, Bal, Fındık, Vanilya"
+    },
+    {
+      "name": "Souffle d'Amour",
+      "image": "urunler/cikolatali.jpg",
+      "ingredients": "Vanilya, Süt, Çikolata, Şeker"
+    },
+    {
+      "name": "Coeur de Chocolat",
+      "image": "urunler/kalpli_pasta.png",
+      "ingredients": "Kakao, Çikolata, Süt"
+    },
+    {
+      "name": "Nuage au Chocolat",
+      "image": "urunler/brownie.png",
+      "ingredients": "Çikolata, Fındık, Şeker"
+    },
+    {
+      "name": "Sérénité Caramel",
+      "image": "urunler/karamel.jpg",
+      "ingredients": "Limon, Vanilya, Karamel"
+    },
+    {
+      "name": "Ciel d’Orange ",
+      "image": "urunler/cheseecake.jpg",
+      "ingredients": "Portakal, Çikolata, Şeker"
+    },
+    {
+      "name": "Zéphyr de Pamplemousse ",
+      "image": "urunler/havuclu.jpg",
+      "ingredients": "Greyfurt, Limon, Vanilya"
+    },
+    {
+      "name": "Valse de Vanille ",
+      "image": "urunler/tarcin.jpg",
+      "ingredients": "Vanilya, Fındık, Çikolata"
+    }
+  ]
+}

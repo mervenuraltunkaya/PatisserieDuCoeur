@@ -1,0 +1,229 @@
+@model PatisserieDuCoeur.Models.ContactMessage
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Pastacı Web Sitesi</title>
+  <link rel="stylesheet" href="~/css/styles.css" type="text/css" />
+<link rel="icon" href="~/favicon.svg" type="image/svg+xml" />
+  </head>
+  <body>
+    <!-- Navbar -->
+    <div class="navbar">
+      <img
+        src="images/logo.png"
+        alt="Logo"
+        class="logo"
+        height="150px"
+        width="150px"
+      />
+      <div class="navbar-links">
+        <a href="#about">Hakkımızda</a>
+        <a href="#product-section">Ürünlerimiz</a>
+        <a href="#reviews">Müşterilerimiz</a>
+        <a href="#contact-container">İletişim</a>
+        <div class="theme-switcher">
+          <input type="checkbox" id="theme-switch" />
+          <label for="theme-switch" class="switch-label"></label>
+        </div>
+      </div>
+    </div>
+
+    <!-- Slideshow -->
+    <section class="header">
+      <div class="slideshow-container">
+        <div
+          class="slide active"
+          style="background-image: url('images/portakal.jpg')"
+        >
+          <div class="text">Yalnızca Lezzetiyle Değil Görseliyle de Tatlı!</div>
+        </div>
+        <div class="slide" style="background-image: url('images/cupcake.jpg')">
+          <div class="text">Özel Günlerinizi En Lezzetlisiyle Tatlandırın!</div>
+        </div>
+        <div class="slide" style="background-image: url('images/kakao.jpg')">
+          <div class="text">Siz Hayal Edin Biz Yapalım!</div>
+        </div>
+      </div>
+    </section>
+
+    <section class="about">
+      <canvas id="backgroundCanvas"></canvas>
+      <!-- Canvas öğesini burada ekliyoruz -->
+      <div class="about-content">
+        <div class="about-text">
+          <h2>Patisserie du Coeur</h2>
+          <p>
+            Patisserie du Coeur, bir hayalin gerçeğe dönüşmesiyle başladı.
+            Kurucumuz, mutfakta geçirdiği yılların ardından, tatlıların sadece
+            lezzet değil, anılar yaratması gerektiğine inanarak yola çıktı.
+            1990'lı yıllarda, geleneksel tariflerle modern dokunuşları
+            birleştirerek, pastalarımızı bir sanat haline getirdik. <br /><br />
+
+            Her pastamız, taze malzemelerle ve özenle hazırlanarak, sadece bir
+            tatlı değil, mutluluk dolu anlar sunuyor. Patisserie du Coeur,
+            lezzet ve kaliteyi simgeleyen bir marka haline geldi ve her geçen
+            gün daha fazla kişiyle buluşarak büyümeye devam ediyor.
+          </p>
+        </div>
+
+        <div class="about-image">
+          <img src="images/pastaci.jpg" alt="Pastacı Resmi" />
+        </div>
+      </div>
+    </section>
+
+    <section class="product-section" id="product-section">
+      <h2>ÜRÜNLERİMİZ</h2>
+      <div class="product-container" id="product-container">
+        <!-- Ürünler buraya gelecek -->
+      </div>
+    </section>
+
+    <section class="reviews">
+      <div class="review-slide">
+        <div class="review-content">
+          <h3 class="customer-name">Ahmet Yılmaz</h3>
+          <p class="customer-location">İstanbul, Türkiye</p>
+          <p class="customer-comment">
+            "Patisserie du Coeur'dan aldığım çikolatalı pasta, tam beklediğim
+            gibi! Lezzeti muazzam, sunumu ise harika. Doğum günü pastamı her
+            zaman burada sipariş edeceğim."
+          </p>
+        </div>
+      </div>
+      <div class="review-slide">
+        <div class="review-content">
+          <h3 class="customer-name">Elif Demir</h3>
+          <p class="customer-location">Ankara, Türkiye</p>
+          <p class="customer-comment">
+            "Frambuazlı pastalarını kesinlikle tavsiye ediyorum. Hem lezzetli
+            hem de görsel olarak çok etkileyici. Bu kadar taze ve kaliteli
+            pastaları başka yerde bulmak zor."
+          </p>
+        </div>
+      </div>
+      <div class="review-slide">
+        <div class="review-content">
+          <h3 class="customer-name">Murat Taş</h3>
+          <p class="customer-location">Ankara, Türkiye</p>
+          <p class="customer-comment">
+            "Limonlu pasta harikaydı! Sadece tatlı değil, mükemmel bir
+            deneyimdi. Her diliminde taze ve doğallığı hissedebiliyorsunuz. Yeni
+            favorim."
+          </p>
+        </div>
+      </div>
+      <div class="review-slide">
+        <div class="review-content">
+          <h3 class="customer-name">Poyraz Yıldırım</h3>
+          <p class="customer-location">Trabzon, Türkiye</p>
+          <p class="customer-comment">
+            "Müşteri hizmetlerinden, pastanın hazırlanışına kadar her şey
+            kusursuzdu. Kavunlu pastayı sipariş ettim, tam istediğim gibi oldu.
+            Kesinlikle tekrar alırım."
+          </p>
+        </div>
+      </div>
+      <!-- Daha fazla yorum ekleyebilirsiniz -->
+    </section>
+
+    <section class="contact-container">
+      <div class="contact-info">
+        <div class="overlay">
+          <img src="images/logo.png" alt="Logo" class="logo" />
+          <p>Lezzet Mah. No: 1, İstanbul</p>
+          <p>(123) 456-7890</p>
+          <p>coeurpat@patisserie.com</p>
+          <!-- Sosyal medya ikonları -->
+          <div class="social-icons">
+            <a href="https://www.instagram.com/yourusername" target="_blank">
+              <img src="images/instagram.svg" alt="Instagram" />
+            </a>
+            <a href="https://twitter.com/yourusername" target="_blank">
+              <img src="images/x.png" alt="X" />
+            </a>
+            <a href="https://www.facebook.com/yourusername" target="_blank">
+              <img src="images/facebook.svg" alt="Facebook" />
+            </a>
+          </div>
+        </div>
+      </div>
+
+
+      <div class="contact-form">
+@{
+    var successMessage = TempData["SuccessMessage"];
+}
+
+@if (successMessage != null)
+{
+    <script>
+        // Tarayıcı bildirim izni isteme
+        if (Notification.permission !== "granted") {
+            Notification.requestPermission();
+        } else {
+            // Bildirimi göster
+            var notification = new Notification("Başarıyla Gönderildi!", {
+                body: '@successMessage',
+                icon: '/favicon.svg'  // Favicon veya başka bir ikon ekleyebilirsiniz
+            });
+        }
+    </script>
+}
+
+        <h2>Bizimle İletişime Geçin</h2>
+        <form asp-controller="Contact" asp-action="Submit" method="post">
+          <input type="text" name="Name" placeholder="Adınız" required />
+          <input type="email" name="Email" placeholder="E-posta" required />
+          <input type="text" name="Subject" placeholder="Konu" required />
+          <textarea name="Message" placeholder="Mesajınız" required></textarea>
+          <button type="submit">Gönder</button>
+        </form>
+        
+      </div>
+    </section>
+
+    <footer class="footer">
+      <div class="footer-content">
+        <p>&copy; 2025 Tüm Hakları Saklıdır</p>
+        <ul class="footer-links">
+          <li><a href="#">Gizlilik Politikası</a></li>
+          <li><a href="#">Kullanım Şartları</a></li>
+          <li><a href="#">İletişim</a></li>
+        </ul>
+      </div>
+    </footer>
+
+    <script type="module" src="js/script.js"></script>
+    <script type="module">
+      // JSON dosyasını çekme
+      fetch("data.json")
+        .then((response) => response.json())
+        .then((data) => {
+          const productContainer = document.getElementById("product-container");
+          const reviewContainer = document.getElementById("review-container");
+
+          // Ürünleri dinamik olarak ekleyelim
+          data.products.forEach((product) => {
+            productContainer.innerHTML += `
+                <div class="product">
+                  <div class="product-image-container">
+                    <img src="${product.image}" alt="${product.name}" class="product-image" />
+                    <div class="product-details">
+                      <p class="ingredients">${product.ingredients}</p>
+                    </div>
+                  </div>
+                  <div class="product-name">${product.name}</div>
+                </div>
+              `;
+          });
+        })
+        .catch((error) =>
+          console.error("Veri yüklenirken bir hata oluştu:", error)
+        );
+    </script>
+  </body>
+</html>
