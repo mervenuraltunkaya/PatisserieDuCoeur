@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "aN+0jQ0y4xqiLrRenSpWc/J7wlzHmU2ptoDbzM9ebFY=",
+  "Hash": "aNugWzWYCirEgadWjr/jR4o9ibnxXIN2xXmjUt8HJE0=",
   "Source": "PatisserieDuCoeur",
   "BasePath": "_content/PatisserieDuCoeur",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "PatisserieDuCoeur\\wwwroot",
       "Source": "PatisserieDuCoeur",
-      "ContentRoot": "C:\\Users\\Owner\\OneDrive\\Masaüstü\\PatisserieDuCoeur - Kopya\\PatisserieDuCoeur\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Owner\\OneDrive\\Masaüstü\\PatisserieDuCoeur - Kopya\\PatisserieDucoeur\\wwwroot\\",
       "BasePath": "_content/PatisserieDuCoeur",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Owner\\OneDrive\\Masaüstü\\PatisserieDuCoeur - Kopya\\PatisserieDuCoeur\\obj\\Debug\\net8.0\\scopedcss\\bundle\\PatisserieDuCoeur.styles.css",
+      "Identity": "C:\\Users\\Owner\\OneDrive\\Masaüstü\\PatisserieDuCoeur - Kopya\\PatisserieDucoeur\\obj\\Debug\\net8.0\\scopedcss\\bundle\\PatisserieDuCoeur.styles.css",
       "SourceId": "PatisserieDuCoeur",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Owner\\OneDrive\\Masaüstü\\PatisserieDuCoeur - Kopya\\PatisserieDuCoeur\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\Owner\\OneDrive\\Masaüstü\\PatisserieDuCoeur - Kopya\\PatisserieDucoeur\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/PatisserieDuCoeur",
       "RelativePath": "PatisserieDuCoeur.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Owner\\OneDrive\\Masaüstü\\PatisserieDuCoeur - Kopya\\PatisserieDuCoeur\\obj\\Debug\\net8.0\\scopedcss\\bundle\\PatisserieDuCoeur.styles.css"
+      "OriginalItemSpec": "C:\\Users\\Owner\\OneDrive\\Masaüstü\\PatisserieDuCoeur - Kopya\\PatisserieDucoeur\\obj\\Debug\\net8.0\\scopedcss\\bundle\\PatisserieDuCoeur.styles.css"
     },
     {
-      "Identity": "C:\\Users\\Owner\\OneDrive\\Masaüstü\\PatisserieDuCoeur - Kopya\\PatisserieDuCoeur\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\PatisserieDuCoeur.bundle.scp.css",
+      "Identity": "C:\\Users\\Owner\\OneDrive\\Masaüstü\\PatisserieDuCoeur - Kopya\\PatisserieDucoeur\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\PatisserieDuCoeur.bundle.scp.css",
       "SourceId": "PatisserieDuCoeur",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Owner\\OneDrive\\Masaüstü\\PatisserieDuCoeur - Kopya\\PatisserieDuCoeur\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\Owner\\OneDrive\\Masaüstü\\PatisserieDuCoeur - Kopya\\PatisserieDucoeur\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/PatisserieDuCoeur",
       "RelativePath": "PatisserieDuCoeur.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Owner\\OneDrive\\Masaüstü\\PatisserieDuCoeur - Kopya\\PatisserieDuCoeur\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\PatisserieDuCoeur.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\Owner\\OneDrive\\Masaüstü\\PatisserieDuCoeur - Kopya\\PatisserieDucoeur\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\PatisserieDuCoeur.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\Owner\\OneDrive\\Masaüstü\\PatisserieDuCoeur - Kopya\\PatisserieDuCoeur\\wwwroot\\background-img.jpg",
+      "Identity": "C:\\Users\\Owner\\OneDrive\\Masaüstü\\PatisserieDuCoeur - Kopya\\PatisserieDucoeur\\wwwroot\\background-img.jpg",
       "SourceId": "PatisserieDuCoeur",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Owner\\OneDrive\\Masaüstü\\PatisserieDuCoeur - Kopya\\PatisserieDuCoeur\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Owner\\OneDrive\\Masaüstü\\PatisserieDuCoeur - Kopya\\PatisserieDucoeur\\wwwroot\\",
       "BasePath": "_content/PatisserieDuCoeur",
       "RelativePath": "background-img.jpg",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\background-img.jpg"
     },
     {
-      "Identity": "C:\\Users\\Owner\\OneDrive\\Masaüstü\\PatisserieDuCoeur - Kopya\\PatisserieDuCoeur\\wwwroot\\css\\background-img.jpg",
+      "Identity": "C:\\Users\\Owner\\OneDrive\\Masaüstü\\PatisserieDuCoeur - Kopya\\PatisserieDucoeur\\wwwroot\\css\\background-img.jpg",
       "SourceId": "PatisserieDuCoeur",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Owner\\OneDrive\\Masaüstü\\PatisserieDuCoeur - Kopya\\PatisserieDuCoeur\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Owner\\OneDrive\\Masaüstü\\PatisserieDuCoeur - Kopya\\PatisserieDucoeur\\wwwroot\\",
       "BasePath": "_content/PatisserieDuCoeur",
       "RelativePath": "css/background-img.jpg",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\css\\background-img.jpg"
     },
     {
-      "Identity": "C:\\Users\\Owner\\OneDrive\\Masaüstü\\PatisserieDuCoeur - Kopya\\PatisserieDuCoeur\\wwwroot\\css\\styles.css",
+      "Identity": "C:\\Users\\Owner\\OneDrive\\Masaüstü\\PatisserieDuCoeur - Kopya\\PatisserieDucoeur\\wwwroot\\css\\styles.css",
       "SourceId": "PatisserieDuCoeur",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Owner\\OneDrive\\Masaüstü\\PatisserieDuCoeur - Kopya\\PatisserieDuCoeur\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Owner\\OneDrive\\Masaüstü\\PatisserieDuCoeur - Kopya\\PatisserieDucoeur\\wwwroot\\",
       "BasePath": "_content/PatisserieDuCoeur",
       "RelativePath": "css/styles.css",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\css\\styles.css"
     },
     {
-      "Identity": "C:\\Users\\Owner\\OneDrive\\Masaüstü\\PatisserieDuCoeur - Kopya\\PatisserieDuCoeur\\wwwroot\\data.json",
+      "Identity": "C:\\Users\\Owner\\OneDrive\\Masaüstü\\PatisserieDuCoeur - Kopya\\PatisserieDucoeur\\wwwroot\\data.json",
       "SourceId": "PatisserieDuCoeur",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Owner\\OneDrive\\Masaüstü\\PatisserieDuCoeur - Kopya\\PatisserieDuCoeur\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Owner\\OneDrive\\Masaüstü\\PatisserieDuCoeur - Kopya\\PatisserieDucoeur\\wwwroot\\",
       "BasePath": "_content/PatisserieDuCoeur",
       "RelativePath": "data.json",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\data.json"
     },
     {
-      "Identity": "C:\\Users\\Owner\\OneDrive\\Masaüstü\\PatisserieDuCoeur - Kopya\\PatisserieDuCoeur\\wwwroot\\favicon.svg",
+      "Identity": "C:\\Users\\Owner\\OneDrive\\Masaüstü\\PatisserieDuCoeur - Kopya\\PatisserieDucoeur\\wwwroot\\favicon.svg",
       "SourceId": "PatisserieDuCoeur",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Owner\\OneDrive\\Masaüstü\\PatisserieDuCoeur - Kopya\\PatisserieDuCoeur\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Owner\\OneDrive\\Masaüstü\\PatisserieDuCoeur - Kopya\\PatisserieDucoeur\\wwwroot\\",
       "BasePath": "_content/PatisserieDuCoeur",
       "RelativePath": "favicon.svg",
       "AssetKind": "All",
@@ -150,10 +150,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.svg"
     },
     {
-      "Identity": "C:\\Users\\Owner\\OneDrive\\Masaüstü\\PatisserieDuCoeur - Kopya\\PatisserieDuCoeur\\wwwroot\\images\\background-img.jpg",
+      "Identity": "C:\\Users\\Owner\\OneDrive\\Masaüstü\\PatisserieDuCoeur - Kopya\\PatisserieDucoeur\\wwwroot\\images\\background-img.jpg",
       "SourceId": "PatisserieDuCoeur",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Owner\\OneDrive\\Masaüstü\\PatisserieDuCoeur - Kopya\\PatisserieDuCoeur\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Owner\\OneDrive\\Masaüstü\\PatisserieDuCoeur - Kopya\\PatisserieDucoeur\\wwwroot\\",
       "BasePath": "_content/PatisserieDuCoeur",
       "RelativePath": "images/background-img.jpg",
       "AssetKind": "All",
@@ -169,10 +169,10 @@
       "OriginalItemSpec": "wwwroot\\images\\background-img.jpg"
     },
     {
-      "Identity": "C:\\Users\\Owner\\OneDrive\\Masaüstü\\PatisserieDuCoeur - Kopya\\PatisserieDuCoeur\\wwwroot\\images\\cupcake.jpg",
+      "Identity": "C:\\Users\\Owner\\OneDrive\\Masaüstü\\PatisserieDuCoeur - Kopya\\PatisserieDucoeur\\wwwroot\\images\\cupcake.jpg",
       "SourceId": "PatisserieDuCoeur",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Owner\\OneDrive\\Masaüstü\\PatisserieDuCoeur - Kopya\\PatisserieDuCoeur\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Owner\\OneDrive\\Masaüstü\\PatisserieDuCoeur - Kopya\\PatisserieDucoeur\\wwwroot\\",
       "BasePath": "_content/PatisserieDuCoeur",
       "RelativePath": "images/cupcake.jpg",
       "AssetKind": "All",
@@ -188,10 +188,10 @@
       "OriginalItemSpec": "wwwroot\\images\\cupcake.jpg"
     },
     {
-      "Identity": "C:\\Users\\Owner\\OneDrive\\Masaüstü\\PatisserieDuCoeur - Kopya\\PatisserieDuCoeur\\wwwroot\\images\\facebook.svg",
+      "Identity": "C:\\Users\\Owner\\OneDrive\\Masaüstü\\PatisserieDuCoeur - Kopya\\PatisserieDucoeur\\wwwroot\\images\\facebook.svg",
       "SourceId": "PatisserieDuCoeur",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Owner\\OneDrive\\Masaüstü\\PatisserieDuCoeur - Kopya\\PatisserieDuCoeur\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Owner\\OneDrive\\Masaüstü\\PatisserieDuCoeur - Kopya\\PatisserieDucoeur\\wwwroot\\",
       "BasePath": "_content/PatisserieDuCoeur",
       "RelativePath": "images/facebook.svg",
       "AssetKind": "All",
@@ -207,10 +207,10 @@
       "OriginalItemSpec": "wwwroot\\images\\facebook.svg"
     },
     {
-      "Identity": "C:\\Users\\Owner\\OneDrive\\Masaüstü\\PatisserieDuCoeur - Kopya\\PatisserieDuCoeur\\wwwroot\\images\\instagram.svg",
+      "Identity": "C:\\Users\\Owner\\OneDrive\\Masaüstü\\PatisserieDuCoeur - Kopya\\PatisserieDucoeur\\wwwroot\\images\\instagram.svg",
       "SourceId": "PatisserieDuCoeur",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Owner\\OneDrive\\Masaüstü\\PatisserieDuCoeur - Kopya\\PatisserieDuCoeur\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Owner\\OneDrive\\Masaüstü\\PatisserieDuCoeur - Kopya\\PatisserieDucoeur\\wwwroot\\",
       "BasePath": "_content/PatisserieDuCoeur",
       "RelativePath": "images/instagram.svg",
       "AssetKind": "All",
@@ -226,10 +226,10 @@
       "OriginalItemSpec": "wwwroot\\images\\instagram.svg"
     },
     {
-      "Identity": "C:\\Users\\Owner\\OneDrive\\Masaüstü\\PatisserieDuCoeur - Kopya\\PatisserieDuCoeur\\wwwroot\\images\\kakao.jpg",
+      "Identity": "C:\\Users\\Owner\\OneDrive\\Masaüstü\\PatisserieDuCoeur - Kopya\\PatisserieDucoeur\\wwwroot\\images\\kakao.jpg",
       "SourceId": "PatisserieDuCoeur",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Owner\\OneDrive\\Masaüstü\\PatisserieDuCoeur - Kopya\\PatisserieDuCoeur\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Owner\\OneDrive\\Masaüstü\\PatisserieDuCoeur - Kopya\\PatisserieDucoeur\\wwwroot\\",
       "BasePath": "_content/PatisserieDuCoeur",
       "RelativePath": "images/kakao.jpg",
       "AssetKind": "All",
@@ -245,10 +245,10 @@
       "OriginalItemSpec": "wwwroot\\images\\kakao.jpg"
     },
     {
-      "Identity": "C:\\Users\\Owner\\OneDrive\\Masaüstü\\PatisserieDuCoeur - Kopya\\PatisserieDuCoeur\\wwwroot\\images\\logo.png",
+      "Identity": "C:\\Users\\Owner\\OneDrive\\Masaüstü\\PatisserieDuCoeur - Kopya\\PatisserieDucoeur\\wwwroot\\images\\logo.png",
       "SourceId": "PatisserieDuCoeur",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Owner\\OneDrive\\Masaüstü\\PatisserieDuCoeur - Kopya\\PatisserieDuCoeur\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Owner\\OneDrive\\Masaüstü\\PatisserieDuCoeur - Kopya\\PatisserieDucoeur\\wwwroot\\",
       "BasePath": "_content/PatisserieDuCoeur",
       "RelativePath": "images/logo.png",
       "AssetKind": "All",
@@ -264,10 +264,10 @@
       "OriginalItemSpec": "wwwroot\\images\\logo.png"
     },
     {
-      "Identity": "C:\\Users\\Owner\\OneDrive\\Masaüstü\\PatisserieDuCoeur - Kopya\\PatisserieDuCoeur\\wwwroot\\images\\pasta-icon.png",
+      "Identity": "C:\\Users\\Owner\\OneDrive\\Masaüstü\\PatisserieDuCoeur - Kopya\\PatisserieDucoeur\\wwwroot\\images\\pasta-icon.png",
       "SourceId": "PatisserieDuCoeur",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Owner\\OneDrive\\Masaüstü\\PatisserieDuCoeur - Kopya\\PatisserieDuCoeur\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Owner\\OneDrive\\Masaüstü\\PatisserieDuCoeur - Kopya\\PatisserieDucoeur\\wwwroot\\",
       "BasePath": "_content/PatisserieDuCoeur",
       "RelativePath": "images/pasta-icon.png",
       "AssetKind": "All",
@@ -283,10 +283,10 @@
       "OriginalItemSpec": "wwwroot\\images\\pasta-icon.png"
     },
     {
-      "Identity": "C:\\Users\\Owner\\OneDrive\\Masaüstü\\PatisserieDuCoeur - Kopya\\PatisserieDuCoeur\\wwwroot\\images\\pasta-icon.svg",
+      "Identity": "C:\\Users\\Owner\\OneDrive\\Masaüstü\\PatisserieDuCoeur - Kopya\\PatisserieDucoeur\\wwwroot\\images\\pasta-icon.svg",
       "SourceId": "PatisserieDuCoeur",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Owner\\OneDrive\\Masaüstü\\PatisserieDuCoeur - Kopya\\PatisserieDuCoeur\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Owner\\OneDrive\\Masaüstü\\PatisserieDuCoeur - Kopya\\PatisserieDucoeur\\wwwroot\\",
       "BasePath": "_content/PatisserieDuCoeur",
       "RelativePath": "images/pasta-icon.svg",
       "AssetKind": "All",
@@ -302,10 +302,10 @@
       "OriginalItemSpec": "wwwroot\\images\\pasta-icon.svg"
     },
     {
-      "Identity": "C:\\Users\\Owner\\OneDrive\\Masaüstü\\PatisserieDuCoeur - Kopya\\PatisserieDuCoeur\\wwwroot\\images\\pastaci.jpg",
+      "Identity": "C:\\Users\\Owner\\OneDrive\\Masaüstü\\PatisserieDuCoeur - Kopya\\PatisserieDucoeur\\wwwroot\\images\\pastaci.jpg",
       "SourceId": "PatisserieDuCoeur",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Owner\\OneDrive\\Masaüstü\\PatisserieDuCoeur - Kopya\\PatisserieDuCoeur\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Owner\\OneDrive\\Masaüstü\\PatisserieDuCoeur - Kopya\\PatisserieDucoeur\\wwwroot\\",
       "BasePath": "_content/PatisserieDuCoeur",
       "RelativePath": "images/pastaci.jpg",
       "AssetKind": "All",
@@ -321,10 +321,10 @@
       "OriginalItemSpec": "wwwroot\\images\\pastaci.jpg"
     },
     {
-      "Identity": "C:\\Users\\Owner\\OneDrive\\Masaüstü\\PatisserieDuCoeur - Kopya\\PatisserieDuCoeur\\wwwroot\\images\\portakal.jpg",
+      "Identity": "C:\\Users\\Owner\\OneDrive\\Masaüstü\\PatisserieDuCoeur - Kopya\\PatisserieDucoeur\\wwwroot\\images\\portakal.jpg",
       "SourceId": "PatisserieDuCoeur",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Owner\\OneDrive\\Masaüstü\\PatisserieDuCoeur - Kopya\\PatisserieDuCoeur\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Owner\\OneDrive\\Masaüstü\\PatisserieDuCoeur - Kopya\\PatisserieDucoeur\\wwwroot\\",
       "BasePath": "_content/PatisserieDuCoeur",
       "RelativePath": "images/portakal.jpg",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\images\\portakal.jpg"
     },
     {
-      "Identity": "C:\\Users\\Owner\\OneDrive\\Masaüstü\\PatisserieDuCoeur - Kopya\\PatisserieDuCoeur\\wwwroot\\images\\x.png",
+      "Identity": "C:\\Users\\Owner\\OneDrive\\Masaüstü\\PatisserieDuCoeur - Kopya\\PatisserieDucoeur\\wwwroot\\images\\x.png",
       "SourceId": "PatisserieDuCoeur",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Owner\\OneDrive\\Masaüstü\\PatisserieDuCoeur - Kopya\\PatisserieDuCoeur\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Owner\\OneDrive\\Masaüstü\\PatisserieDuCoeur - Kopya\\PatisserieDucoeur\\wwwroot\\",
       "BasePath": "_content/PatisserieDuCoeur",
       "RelativePath": "images/x.png",
       "AssetKind": "All",
@@ -359,10 +359,10 @@
       "OriginalItemSpec": "wwwroot\\images\\x.png"
     },
     {
-      "Identity": "C:\\Users\\Owner\\OneDrive\\Masaüstü\\PatisserieDuCoeur - Kopya\\PatisserieDuCoeur\\wwwroot\\js\\canvas.js",
+      "Identity": "C:\\Users\\Owner\\OneDrive\\Masaüstü\\PatisserieDuCoeur - Kopya\\PatisserieDucoeur\\wwwroot\\js\\canvas.js",
       "SourceId": "PatisserieDuCoeur",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Owner\\OneDrive\\Masaüstü\\PatisserieDuCoeur - Kopya\\PatisserieDuCoeur\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Owner\\OneDrive\\Masaüstü\\PatisserieDuCoeur - Kopya\\PatisserieDucoeur\\wwwroot\\",
       "BasePath": "_content/PatisserieDuCoeur",
       "RelativePath": "js/canvas.js",
       "AssetKind": "All",
@@ -378,10 +378,10 @@
       "OriginalItemSpec": "wwwroot\\js\\canvas.js"
     },
     {
-      "Identity": "C:\\Users\\Owner\\OneDrive\\Masaüstü\\PatisserieDuCoeur - Kopya\\PatisserieDuCoeur\\wwwroot\\js\\productSlide.js",
+      "Identity": "C:\\Users\\Owner\\OneDrive\\Masaüstü\\PatisserieDuCoeur - Kopya\\PatisserieDucoeur\\wwwroot\\js\\productSlide.js",
       "SourceId": "PatisserieDuCoeur",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Owner\\OneDrive\\Masaüstü\\PatisserieDuCoeur - Kopya\\PatisserieDuCoeur\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Owner\\OneDrive\\Masaüstü\\PatisserieDuCoeur - Kopya\\PatisserieDucoeur\\wwwroot\\",
       "BasePath": "_content/PatisserieDuCoeur",
       "RelativePath": "js/productSlide.js",
       "AssetKind": "All",
@@ -397,10 +397,10 @@
       "OriginalItemSpec": "wwwroot\\js\\productSlide.js"
     },
     {
-      "Identity": "C:\\Users\\Owner\\OneDrive\\Masaüstü\\PatisserieDuCoeur - Kopya\\PatisserieDuCoeur\\wwwroot\\js\\script.js",
+      "Identity": "C:\\Users\\Owner\\OneDrive\\Masaüstü\\PatisserieDuCoeur - Kopya\\PatisserieDucoeur\\wwwroot\\js\\script.js",
       "SourceId": "PatisserieDuCoeur",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Owner\\OneDrive\\Masaüstü\\PatisserieDuCoeur - Kopya\\PatisserieDuCoeur\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Owner\\OneDrive\\Masaüstü\\PatisserieDuCoeur - Kopya\\PatisserieDucoeur\\wwwroot\\",
       "BasePath": "_content/PatisserieDuCoeur",
       "RelativePath": "js/script.js",
       "AssetKind": "All",
@@ -416,10 +416,10 @@
       "OriginalItemSpec": "wwwroot\\js\\script.js"
     },
     {
-      "Identity": "C:\\Users\\Owner\\OneDrive\\Masaüstü\\PatisserieDuCoeur - Kopya\\PatisserieDuCoeur\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\Owner\\OneDrive\\Masaüstü\\PatisserieDuCoeur - Kopya\\PatisserieDucoeur\\wwwroot\\js\\site.js",
       "SourceId": "PatisserieDuCoeur",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Owner\\OneDrive\\Masaüstü\\PatisserieDuCoeur - Kopya\\PatisserieDuCoeur\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Owner\\OneDrive\\Masaüstü\\PatisserieDuCoeur - Kopya\\PatisserieDucoeur\\wwwroot\\",
       "BasePath": "_content/PatisserieDuCoeur",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -435,10 +435,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\Owner\\OneDrive\\Masaüstü\\PatisserieDuCoeur - Kopya\\PatisserieDuCoeur\\wwwroot\\js\\slider.js",
+      "Identity": "C:\\Users\\Owner\\OneDrive\\Masaüstü\\PatisserieDuCoeur - Kopya\\PatisserieDucoeur\\wwwroot\\js\\slider.js",
       "SourceId": "PatisserieDuCoeur",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Owner\\OneDrive\\Masaüstü\\PatisserieDuCoeur - Kopya\\PatisserieDuCoeur\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Owner\\OneDrive\\Masaüstü\\PatisserieDuCoeur - Kopya\\PatisserieDucoeur\\wwwroot\\",
       "BasePath": "_content/PatisserieDuCoeur",
       "RelativePath": "js/slider.js",
       "AssetKind": "All",
@@ -454,10 +454,10 @@
       "OriginalItemSpec": "wwwroot\\js\\slider.js"
     },
     {
-      "Identity": "C:\\Users\\Owner\\OneDrive\\Masaüstü\\PatisserieDuCoeur - Kopya\\PatisserieDuCoeur\\wwwroot\\js\\theme.js",
+      "Identity": "C:\\Users\\Owner\\OneDrive\\Masaüstü\\PatisserieDuCoeur - Kopya\\PatisserieDucoeur\\wwwroot\\js\\theme.js",
       "SourceId": "PatisserieDuCoeur",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Owner\\OneDrive\\Masaüstü\\PatisserieDuCoeur - Kopya\\PatisserieDuCoeur\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Owner\\OneDrive\\Masaüstü\\PatisserieDuCoeur - Kopya\\PatisserieDucoeur\\wwwroot\\",
       "BasePath": "_content/PatisserieDuCoeur",
       "RelativePath": "js/theme.js",
       "AssetKind": "All",
@@ -473,10 +473,10 @@
       "OriginalItemSpec": "wwwroot\\js\\theme.js"
     },
     {
-      "Identity": "C:\\Users\\Owner\\OneDrive\\Masaüstü\\PatisserieDuCoeur - Kopya\\PatisserieDuCoeur\\wwwroot\\urunler\\brownie.png",
+      "Identity": "C:\\Users\\Owner\\OneDrive\\Masaüstü\\PatisserieDuCoeur - Kopya\\PatisserieDucoeur\\wwwroot\\urunler\\brownie.png",
       "SourceId": "PatisserieDuCoeur",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Owner\\OneDrive\\Masaüstü\\PatisserieDuCoeur - Kopya\\PatisserieDuCoeur\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Owner\\OneDrive\\Masaüstü\\PatisserieDuCoeur - Kopya\\PatisserieDucoeur\\wwwroot\\",
       "BasePath": "_content/PatisserieDuCoeur",
       "RelativePath": "urunler/brownie.png",
       "AssetKind": "All",
@@ -492,10 +492,10 @@
       "OriginalItemSpec": "wwwroot\\urunler\\brownie.png"
     },
     {
-      "Identity": "C:\\Users\\Owner\\OneDrive\\Masaüstü\\PatisserieDuCoeur - Kopya\\PatisserieDuCoeur\\wwwroot\\urunler\\cheseecake.jpg",
+      "Identity": "C:\\Users\\Owner\\OneDrive\\Masaüstü\\PatisserieDuCoeur - Kopya\\PatisserieDucoeur\\wwwroot\\urunler\\cheseecake.jpg",
       "SourceId": "PatisserieDuCoeur",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Owner\\OneDrive\\Masaüstü\\PatisserieDuCoeur - Kopya\\PatisserieDuCoeur\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Owner\\OneDrive\\Masaüstü\\PatisserieDuCoeur - Kopya\\PatisserieDucoeur\\wwwroot\\",
       "BasePath": "_content/PatisserieDuCoeur",
       "RelativePath": "urunler/cheseecake.jpg",
       "AssetKind": "All",
@@ -511,10 +511,10 @@
       "OriginalItemSpec": "wwwroot\\urunler\\cheseecake.jpg"
     },
     {
-      "Identity": "C:\\Users\\Owner\\OneDrive\\Masaüstü\\PatisserieDuCoeur - Kopya\\PatisserieDuCoeur\\wwwroot\\urunler\\cikolatali.jpg",
+      "Identity": "C:\\Users\\Owner\\OneDrive\\Masaüstü\\PatisserieDuCoeur - Kopya\\PatisserieDucoeur\\wwwroot\\urunler\\cikolatali.jpg",
       "SourceId": "PatisserieDuCoeur",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Owner\\OneDrive\\Masaüstü\\PatisserieDuCoeur - Kopya\\PatisserieDuCoeur\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Owner\\OneDrive\\Masaüstü\\PatisserieDuCoeur - Kopya\\PatisserieDucoeur\\wwwroot\\",
       "BasePath": "_content/PatisserieDuCoeur",
       "RelativePath": "urunler/cikolatali.jpg",
       "AssetKind": "All",
@@ -530,10 +530,10 @@
       "OriginalItemSpec": "wwwroot\\urunler\\cikolatali.jpg"
     },
     {
-      "Identity": "C:\\Users\\Owner\\OneDrive\\Masaüstü\\PatisserieDuCoeur - Kopya\\PatisserieDuCoeur\\wwwroot\\urunler\\havuclu.jpg",
+      "Identity": "C:\\Users\\Owner\\OneDrive\\Masaüstü\\PatisserieDuCoeur - Kopya\\PatisserieDucoeur\\wwwroot\\urunler\\havuclu.jpg",
       "SourceId": "PatisserieDuCoeur",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Owner\\OneDrive\\Masaüstü\\PatisserieDuCoeur - Kopya\\PatisserieDuCoeur\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Owner\\OneDrive\\Masaüstü\\PatisserieDuCoeur - Kopya\\PatisserieDucoeur\\wwwroot\\",
       "BasePath": "_content/PatisserieDuCoeur",
       "RelativePath": "urunler/havuclu.jpg",
       "AssetKind": "All",
@@ -549,10 +549,10 @@
       "OriginalItemSpec": "wwwroot\\urunler\\havuclu.jpg"
     },
     {
-      "Identity": "C:\\Users\\Owner\\OneDrive\\Masaüstü\\PatisserieDuCoeur - Kopya\\PatisserieDuCoeur\\wwwroot\\urunler\\kalpli_pasta.png",
+      "Identity": "C:\\Users\\Owner\\OneDrive\\Masaüstü\\PatisserieDuCoeur - Kopya\\PatisserieDucoeur\\wwwroot\\urunler\\kalpli_pasta.png",
       "SourceId": "PatisserieDuCoeur",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Owner\\OneDrive\\Masaüstü\\PatisserieDuCoeur - Kopya\\PatisserieDuCoeur\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Owner\\OneDrive\\Masaüstü\\PatisserieDuCoeur - Kopya\\PatisserieDucoeur\\wwwroot\\",
       "BasePath": "_content/PatisserieDuCoeur",
       "RelativePath": "urunler/kalpli_pasta.png",
       "AssetKind": "All",
@@ -568,10 +568,10 @@
       "OriginalItemSpec": "wwwroot\\urunler\\kalpli_pasta.png"
     },
     {
-      "Identity": "C:\\Users\\Owner\\OneDrive\\Masaüstü\\PatisserieDuCoeur - Kopya\\PatisserieDuCoeur\\wwwroot\\urunler\\karamel.jpg",
+      "Identity": "C:\\Users\\Owner\\OneDrive\\Masaüstü\\PatisserieDuCoeur - Kopya\\PatisserieDucoeur\\wwwroot\\urunler\\karamel.jpg",
       "SourceId": "PatisserieDuCoeur",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Owner\\OneDrive\\Masaüstü\\PatisserieDuCoeur - Kopya\\PatisserieDuCoeur\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Owner\\OneDrive\\Masaüstü\\PatisserieDuCoeur - Kopya\\PatisserieDucoeur\\wwwroot\\",
       "BasePath": "_content/PatisserieDuCoeur",
       "RelativePath": "urunler/karamel.jpg",
       "AssetKind": "All",
@@ -587,10 +587,10 @@
       "OriginalItemSpec": "wwwroot\\urunler\\karamel.jpg"
     },
     {
-      "Identity": "C:\\Users\\Owner\\OneDrive\\Masaüstü\\PatisserieDuCoeur - Kopya\\PatisserieDuCoeur\\wwwroot\\urunler\\pasta.png",
+      "Identity": "C:\\Users\\Owner\\OneDrive\\Masaüstü\\PatisserieDuCoeur - Kopya\\PatisserieDucoeur\\wwwroot\\urunler\\pasta.png",
       "SourceId": "PatisserieDuCoeur",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Owner\\OneDrive\\Masaüstü\\PatisserieDuCoeur - Kopya\\PatisserieDuCoeur\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Owner\\OneDrive\\Masaüstü\\PatisserieDuCoeur - Kopya\\PatisserieDucoeur\\wwwroot\\",
       "BasePath": "_content/PatisserieDuCoeur",
       "RelativePath": "urunler/pasta.png",
       "AssetKind": "All",
@@ -606,10 +606,10 @@
       "OriginalItemSpec": "wwwroot\\urunler\\pasta.png"
     },
     {
-      "Identity": "C:\\Users\\Owner\\OneDrive\\Masaüstü\\PatisserieDuCoeur - Kopya\\PatisserieDuCoeur\\wwwroot\\urunler\\tarcin.jpg",
+      "Identity": "C:\\Users\\Owner\\OneDrive\\Masaüstü\\PatisserieDuCoeur - Kopya\\PatisserieDucoeur\\wwwroot\\urunler\\tarcin.jpg",
       "SourceId": "PatisserieDuCoeur",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Owner\\OneDrive\\Masaüstü\\PatisserieDuCoeur - Kopya\\PatisserieDuCoeur\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Owner\\OneDrive\\Masaüstü\\PatisserieDuCoeur - Kopya\\PatisserieDucoeur\\wwwroot\\",
       "BasePath": "_content/PatisserieDuCoeur",
       "RelativePath": "urunler/tarcin.jpg",
       "AssetKind": "All",

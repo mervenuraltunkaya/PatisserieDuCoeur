@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Owner\\OneDrive\\Masaüstü\\PatisserieDuCoeur - Kopya\\PatisserieDuCoeur\\PatisserieDuCoeur.csproj": {}
+    "C:\\Users\\Owner\\OneDrive\\Masaüstü\\PatisserieDuCoeur - Kopya\\PatisserieDucoeur\\PatisserieDuCoeur.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Owner\\OneDrive\\Masaüstü\\PatisserieDuCoeur - Kopya\\PatisserieDuCoeur\\PatisserieDuCoeur.csproj": {
+    "C:\\Users\\Owner\\OneDrive\\Masaüstü\\PatisserieDuCoeur - Kopya\\PatisserieDucoeur\\PatisserieDuCoeur.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Owner\\OneDrive\\Masaüstü\\PatisserieDuCoeur - Kopya\\PatisserieDuCoeur\\PatisserieDuCoeur.csproj",
+        "projectUniqueName": "C:\\Users\\Owner\\OneDrive\\Masaüstü\\PatisserieDuCoeur - Kopya\\PatisserieDucoeur\\PatisserieDuCoeur.csproj",
         "projectName": "PatisserieDuCoeur",
-        "projectPath": "C:\\Users\\Owner\\OneDrive\\Masaüstü\\PatisserieDuCoeur - Kopya\\PatisserieDuCoeur\\PatisserieDuCoeur.csproj",
+        "projectPath": "C:\\Users\\Owner\\OneDrive\\Masaüstü\\PatisserieDuCoeur - Kopya\\PatisserieDucoeur\\PatisserieDuCoeur.csproj",
         "packagesPath": "C:\\Users\\Owner\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Owner\\OneDrive\\Masaüstü\\PatisserieDuCoeur - Kopya\\PatisserieDuCoeur\\obj\\",
+        "outputPath": "C:\\Users\\Owner\\OneDrive\\Masaüstü\\PatisserieDuCoeur - Kopya\\PatisserieDucoeur\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

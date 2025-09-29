@@ -334,3 +334,4 @@ C:\Users\Owner\OneDrive\Masaüstü\PatisserieDuCoeur - Kopya\PatisserieDuCoeur\o
 C:\Users\Owner\OneDrive\Masaüstü\PatisserieDuCoeur - Kopya\PatisserieDuCoeur\obj\Debug\net8.0\PatisserieDuCoeur.pdb
 C:\Users\Owner\OneDrive\Masaüstü\PatisserieDuCoeur - Kopya\PatisserieDuCoeur\obj\Debug\net8.0\PatisserieDuCoeur.genruntimeconfig.cache
 C:\Users\Owner\OneDrive\Masaüstü\PatisserieDuCoeur - Kopya\PatisserieDuCoeur\obj\Debug\net8.0\ref\PatisserieDuCoeur.dll
+C:\Users\Owner\OneDrive\Masaüstü\PatisserieDuCoeur - Kopya\PatisserieDucoeur\obj\Debug\net8.0\PatisserieDuCoeur.sourcelink.json

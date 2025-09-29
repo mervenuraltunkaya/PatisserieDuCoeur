@@ -15,8 +15,9 @@ Modern web teknolojileri kullanılarak geliştirilmiş, hayali bir pastane işle
 ## Kullanılan Teknolojiler
 
 ### Frontend
+
 - **HTML5**: Semantik yapı ve modern etiketler
-- **CSS3**: 
+- **CSS3**:
   - Grid Layout
   - Flexbox
   - Animations & Transitions
@@ -28,6 +29,7 @@ Modern web teknolojileri kullanılarak geliştirilmiş, hayali bir pastane işle
   - Fetch API ile JSON veri çekme
 
 ### Backend
+
 - **ASP.NET Core MVC**: Sunucu taraflı uygulama geliştirme
 - **Entity Framework Core**: ORM ve veritabanı işlemleri
 - **SQL Server**: Veri yönetimi
@@ -41,3 +43,32 @@ Modern web teknolojileri kullanılarak geliştirilmiş, hayali bir pastane işle
 5. **İletişim**: Form validasyonu ve veritabanı kaydı
 6. **Footer**: Telif hakkı ve navigasyon linkleri
 
+## Ekran Görüntüleri
+
+### Ana Sayfa ve Slideshow
+
+![Ana Sayfa](screenshots/anasayfa.png)
+
+### Hakkımızda Bölümü - Canvas Animasyonu
+
+![Hakkımızda](screenshots/hakkimizda.png)
+
+### Ürünler Bölümü - Dinamik Listeleme
+
+![Ürünlerimiz](screenshots/urunler.png)
+
+### Müşteri Yorumları
+
+![Yorumlar](screenshots/yorumlar.png)
+
+### İletişim Formu
+
+![İletişim](screenshots/iletisim.png)
+
+### Koyu Tema Görünümü
+
+![Koyu Tema](screenshots/koyu-tema.png)
+
+### Responsive Tasarım
+
+![Responsive Tasarım](screenshots/responsive.png)
